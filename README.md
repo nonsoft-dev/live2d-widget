@@ -9,7 +9,7 @@ For a full documentation, please check the above link.
 **NOTE**: I tried my best to translate it to English. Some of them are still from Google Translate. Contribution for translations are welcome in all languages.
 
 ## Demo:
-[http://nonsoft.ml/live2d-widget-i18n/demo/demo.html](http://nonsoft.ml/live2d-widget-i18n/demo/demo.html)
+[https://nonsoft-dev.github.io/live2d-widget-i18n/demo/demo.html](http://nonsoft.ml/live2d-widget-i18n/demo/demo.html)
 
 ## Dependencies:
 
